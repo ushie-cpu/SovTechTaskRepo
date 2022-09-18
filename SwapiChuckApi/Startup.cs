@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using SwapiChuckApi.Services;
+using SwapiChuckApi.Services.IServices;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -26,6 +28,10 @@ namespace SwapiChuckApi
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddHttpClient<IChucksService, ChucksService>();
+            services.AddScoped<IChucksService, ChucksService>();
+            services.AddHttpClient<ISwapiService, SwapiService>();
+            services.AddScoped<ISwapiService, SwapiService>();
             services.AddSwaggerGen();
         }
 

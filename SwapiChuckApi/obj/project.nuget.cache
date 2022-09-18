@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "uU9NeGa+tTwcF6941UkbPGrUHESbBDPxjOSsNpVyq3kMDedTk90GIJSo/Pls8jVxH16ig5p5cvevVU2G7vlKrg==",
+  "dgSpecHash": "9Vt+yV05gnPM59CGjB6B33biEqLeD3t9Z+oobAWkb0zog2VORTmUCSOwNUKEL9B4O+Tr4EPt22Rb7BMUrtzbBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\john.ushie_kuda\\source\\repos\\SovTechOpenApi\\SwapiChuckApi\\SwapiChuckApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\john.ushie_kuda\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

@@ -23,3 +23,4 @@ C:\Users\john.ushie_kuda\source\repos\SovTechOpenApi\SwapiChuckApi\obj\Debug\net
 C:\Users\john.ushie_kuda\source\repos\SovTechOpenApi\SwapiChuckApi\obj\Debug\netcoreapp3.1\SwapiChuckApi.dll
 C:\Users\john.ushie_kuda\source\repos\SovTechOpenApi\SwapiChuckApi\obj\Debug\netcoreapp3.1\SwapiChuckApi.pdb
 C:\Users\john.ushie_kuda\source\repos\SovTechOpenApi\SwapiChuckApi\obj\Debug\netcoreapp3.1\SwapiChuckApi.genruntimeconfig.cache
+C:\Users\john.ushie_kuda\source\repos\SovTechOpenApi\SwapiChuckApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
