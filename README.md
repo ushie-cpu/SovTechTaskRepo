@@ -53,9 +53,8 @@ In the Swapi Controller there is an endpoint (/Swapi/people{id}) that uses the p
 | ------------------------------ | ------------|---------------------|
 | /chuck/category                | Get         | Gets all categories |
 | /chuck/random                  | Get         | Gets random categories |
-
-| /Swapi/people                  | Get         | Gets all people(Star Wars People) |
-| /Swapi/people{id}               | Get         | Gets people with id |
+| /Swapi/people                  | Get         | Gets all Star Wars People|
+| /Swapi/people{id}              | Get         | Gets people with id |
 | /Search/                       | Get         | Gets all  searches |
 
 
